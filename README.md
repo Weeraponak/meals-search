@@ -1,4 +1,7 @@
-﻿# meals-search
+# meals-search
 
 git clone "https://github.com/Weeraponak/meals-search"
-```npm install && npm run dev ```
+
+## Installation
+
+```npm install && npm run dev``` 
